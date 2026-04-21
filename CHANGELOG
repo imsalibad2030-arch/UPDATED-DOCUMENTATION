@@ -1,0 +1,76 @@
+CHANGELOG
+This file lists all the updates made to our Multi-tool Study Assistant App.
+
+Version v1.0.0 – July 15, 2025
+First version of the app
+User can:
+
+* Use a basic calculator (add, subtract, multiply, divide)
+
+Version v1.0.1 – August 2, 2025
+Second version of the app
+User can:
+
+* Use a basic calculator
+* Convert units (length, weight, capacity)
+
+Version v1.0.2 – September 5, 2025
+Update version
+User can:
+
+* Use a basic calculator
+* Convert units with cleaner rounded results
+
+Version v1.1.0 – October 10, 2025
+Major update
+User can:
+
+* Use a basic calculator
+* Convert units
+* Set up a timer for study
+
+Version v1.1.1 – November 3, 2025
+Update version
+User can:
+
+* Use a basic calculator
+* Convert units
+* Set up a timer
+* Create a to-do list
+
+Version v1.1.2 – December 12, 2025
+Update version
+User can:
+
+* Use a basic calculator with menu options
+* Convert units
+* Set up a timer
+* Create a to-do list
+
+Version v1.2.0 – January 8, 2026
+Minor improvements
+User can:
+
+* Use a basic calculator
+* Convert units with better input handling
+* Set up a timer
+* Create a to-do list
+
+Version v1.2.1 – February 14, 2026
+Update version
+User can:
+
+* Use a basic calculator
+* Convert units
+* Set up a timer
+* Create a to-do list
+* Experience improved code structure and fewer bugs
+
+Version v1.3.0 – April 15, 2026
+Final version of the app
+User can:
+
+* Convert units into desired units
+* Set up a timer for study
+* Create a to-do list
+* Use a basic calculator
