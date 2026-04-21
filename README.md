@@ -170,7 +170,18 @@ To unit: in
 
 ## References
 
-* None
+* Python Software Foundation. (2025). *Python Documentation*. https://docs.python.org/3/
+
+* W3Schools. (2025). *Python Tutorial*. https://www.w3schools.com/python/
+
+* GeeksforGeeks. (2025). *Python Programming Language*. https://www.geeksforgeeks.org/python-programming-language/
+
+* Stack Overflow. (2025). *Python Questions and Answers*. https://stackoverflow.com/
+
+* Programiz. (2025). *Learn Python Programming*. https://www.programiz.com/python-programming
+
+---
+
 
 ---
 
